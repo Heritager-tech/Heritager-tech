@@ -1,18 +1,18 @@
 <mxfile host="65bd71144e">
     <diagram id="2zi_XIBdXKynh7ebaMAH" name="Страница 1">
-        <mxGraphModel dx="2387" dy="2085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2637" dy="2467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="37" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
                     <mxGeometry x="-110" y="-120" width="2100" height="1080" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Бизнес-процесс постановка задач на разработку ИБ&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;whiteSpace=wrap;fillStyle=auto;gradientColor=none;" parent="1" vertex="1">
+                <mxCell id="18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Бизнес-процесс постановка задач на разработку ИБ&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=30;horizontalStack=0;whiteSpace=wrap;fillStyle=auto;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
                     <mxGeometry x="-10" y="-10" width="1940" height="790" as="geometry">
                         <mxRectangle x="100" y="560" width="60" height="30" as="alternateBounds"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Отдел ИБ локлаьный&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="18" vertex="1">
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Отдел ИБ локлаьный&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="18" vertex="1">
                     <mxGeometry y="30" width="1940" height="420" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;fillColor=#d5e8d4;strokeColor=#82b366;" parent="19" vertex="1">
@@ -147,7 +147,7 @@
                         <mxPoint x="1065" y="347.5" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Руководство&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="18" vertex="1">
+                <mxCell id="20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Руководство&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="18" vertex="1">
                     <mxGeometry y="450" width="1940" height="180" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="Согласовать" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="20">
@@ -161,7 +161,7 @@
                 <mxCell id="68" value="" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=parallel;" vertex="1" parent="20">
                     <mxGeometry x="1040" y="65.00000000000023" width="50" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DevOps аутсорс&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;" parent="18" vertex="1">
+                <mxCell id="21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;DevOps аутсорс&lt;/font&gt;" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="18" vertex="1">
                     <mxGeometry y="630" width="1940" height="160" as="geometry"/>
                 </mxCell>
                 <mxCell id="75" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="21" source="47" target="74">
