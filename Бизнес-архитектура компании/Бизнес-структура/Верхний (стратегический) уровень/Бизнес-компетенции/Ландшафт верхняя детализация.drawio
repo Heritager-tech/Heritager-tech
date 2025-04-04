@@ -98,7 +98,7 @@
                 <mxCell id="bdI3ptZTu-mgrcE6qx1e-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=4;shape=mxgraph.mockup.forms.horSlider;strokeColor=#4D4D4D;sliderStyle=basic;sliderPos=67.244;handleStyle=circle;fillColor2=#36BCD1;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;fillColor=#36BCD1;perimeterSpacing=0;fillOpacity=100;" parent="1" vertex="1">
                     <mxGeometry x="207" y="4417.5" width="320" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="-oJUz6qvebBx3RSiQiv6-1" value="" style="verticalLabelPosition=bottom;shadow=0;align=center;html=1;verticalAlign=top;strokeWidth=30;shape=mxgraph.mockup.forms.horSlider;strokeColor=#4D4D4D;sliderStyle=basic;sliderPos=74.771;handleStyle=circle;fillColor2=#36BCD1;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;fillColor=#36BCD1;perimeterSpacing=0;fillOpacity=100;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+                <mxCell id="-oJUz6qvebBx3RSiQiv6-1" value="" style="verticalLabelPosition=bottom;shadow=0;align=center;html=1;verticalAlign=top;strokeWidth=30;shape=mxgraph.mockup.forms.horSlider;strokeColor=#4D4D4D;sliderStyle=basic;sliderPos=74.771;handleStyle=circle;fillColor2=#36BCD1;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;fillColor=#36BCD1;perimeterSpacing=0;fillOpacity=100;sketch=1;curveFitting=1;jiggle=2;noLabel=0;" parent="1" vertex="1">
                     <mxGeometry x="133" y="5060" width="510" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="-oJUz6qvebBx3RSiQiv6-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=8;shape=mxgraph.mockup.forms.horSlider;strokeColor=#4D4D4D;sliderStyle=basic;sliderPos=68.235;handleStyle=circle;fillColor2=#36BCD1;gradientColor=none;labelBorderColor=none;labelBackgroundColor=none;fillColor=#36BCD1;perimeterSpacing=0;fillOpacity=100;" parent="1" vertex="1">
@@ -125,7 +125,7 @@
                     <mxGeometry x="222" y="4720" width="320" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="wU3xurUWq-uGDlGuvanH-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=17;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#8C8496;fontColor=#000000;verticalAlign=top;align=center;spacing=20;fontSize=14;spacingLeft=170;" parent="1" vertex="1">
-                    <mxGeometry x="-890" y="4045" width="400" height="200" as="geometry"/>
+                    <mxGeometry x="-890" y="3970" width="400" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="wU3xurUWq-uGDlGuvanH-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=17;perimeter=none;whiteSpace=wrap;fillColor=#1061B0;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;part=0;backgroundOutline=0;noLabel=0;" parent="wU3xurUWq-uGDlGuvanH-6" vertex="1">
                     <mxGeometry width="110" height="200" relative="1" as="geometry"/>
@@ -358,7 +358,7 @@
                     <mxCell/>
                 </object>
                 <mxCell id="wp2hwnPlKysDd1k0PrAt-1" parent="wp2hwnPlKysDd1k0PrAt-0"/>
-                <mxCell id="wp2hwnPlKysDd1k0PrAt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=3;strokeWidth=3;strokeColor=#000000;" vertex="1" parent="wp2hwnPlKysDd1k0PrAt-1">
+                <mxCell id="wp2hwnPlKysDd1k0PrAt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=2;strokeWidth=5;strokeColor=#000000;" vertex="1" parent="wp2hwnPlKysDd1k0PrAt-1">
                     <mxGeometry x="-110" y="2700" width="4380" height="2800" as="geometry"/>
                 </mxCell>
                 <mxCell id="wp2hwnPlKysDd1k0PrAt-3" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 100px;&quot;&gt;&amp;nbsp; Управляющие бизнес-компетенции&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#666666;strokeWidth=4;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=50;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" vertex="1" parent="wp2hwnPlKysDd1k0PrAt-1">
