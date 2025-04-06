@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="KPkbjoFniX4YVMLm4hhz" name="Общая карта">
-        <mxGraphModel dx="6794" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="5509" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="0">
                     <mxCell/>
@@ -29,7 +29,7 @@
                 <mxCell id="_nqJVA25CXtKAcP3GjvM-6" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Управление архитектурой&lt;/b&gt;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" parent="1" vertex="1">
                     <mxGeometry x="199.5" y="3630" width="335" height="167.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="_nqJVA25CXtKAcP3GjvM-7" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Поддержка&lt;/b&gt;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" parent="1" vertex="1">
+                <mxCell id="_nqJVA25CXtKAcP3GjvM-7" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Управление финансами&lt;/b&gt;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" parent="1" vertex="1">
                     <mxGeometry x="199.5" y="3940" width="335" height="167.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="UlkbVE2gaZ46MG-YNUkK-1" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;&lt;b&gt;Контроль качества&lt;/b&gt;&lt;/span&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#F5DEAA;shape=mxgraph.archimate3.application;appType=capability;archiType=rounded;" parent="1" vertex="1">
