@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="KPkbjoFniX4YVMLm4hhz" name="Универсальные">
-        <mxGraphModel dx="5509" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="6794" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="0">
                     <mxCell/>
@@ -9,7 +9,7 @@
                 <mxCell id="_nqJVA25CXtKAcP3GjvM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="-110" y="2700" width="4380" height="2800" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="3" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="43" y="3170" width="690" height="1780" as="geometry"/>
                 </mxCell>
                 <object label="" hedietLinkedDataV1_path="../../../Средний (тактический) уровень/Бизнес-компетенции по департаментам/ИТ департамент.drawio" id="_nqJVA25CXtKAcP3GjvM-3">
@@ -20,7 +20,7 @@
                 <mxCell id="_nqJVA25CXtKAcP3GjvM-4" value="&lt;span style=&quot;font-size: 70px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;IT&lt;/font&gt;&lt;/span&gt;" style="shape=rect;strokeColor=default;fillColor=#7EA6E0;strokeWidth=2;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="3" vertex="1">
                     <mxGeometry x="44" width="126" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" vertex="1" parent="3">
+                <mxCell id="2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" parent="3" vertex="1">
                     <mxGeometry x="587" y="100" width="60" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="_nqJVA25CXtKAcP3GjvM-2" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 100px;&quot;&gt;&amp;nbsp; Универсальные бизнес-компетенции&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#666666;strokeWidth=4;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=50;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -184,7 +184,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Основные" id="LBq4sw7w2ZfflTA5G8ZU">
-        <mxGraphModel dx="5509" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2425" dy="-1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="2u0SDXx59rk51LR-6qHb-0">
                     <mxCell/>
@@ -360,7 +360,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Управляющие" id="zlUslKcowD9_geuOn4l3">
-        <mxGraphModel dx="5509" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2425" dy="-1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="wp2hwnPlKysDd1k0PrAt-0">
                     <mxCell/>
