@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="NaxvBUjEVn4D0d6boA_5" name="Потоки создания ценности">
-        <mxGraphModel dx="2369" dy="2727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="6257" dy="5064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -37,7 +37,7 @@
                 <mxCell id="ysUArar38wlqEczt1yKK-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Исполнитель&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="260" y="600" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" vertex="1" parent="ysUArar38wlqEczt1yKK-1">
+                <mxCell id="2" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" parent="ysUArar38wlqEczt1yKK-1" vertex="1">
                     <mxGeometry x="490" y="20" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="QUG8qj0PCL6rPHySDA9o-1" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 70px;&quot;&gt;&amp;nbsp;Функция&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#7EA6E0;strokeWidth=2;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="ysUArar38wlqEczt1yKK-1" vertex="1">
@@ -49,13 +49,13 @@
                 <mxCell id="p_7OQdXFubrS5UdqKXyw-18" value="&lt;span style=&quot;font-size: 50px;&quot;&gt;40 мин.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="900" y="1610" width="230" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-2" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Домен или предметная область&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-2" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Домен или предметная область&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="270" y="1060" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-2">
+                <mxCell id="3" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" parent="VScDStyfCDfS6FZ-cKT7-2" vertex="1">
                     <mxGeometry x="489.99977941064617" y="20" width="46.249980983676394" height="46.25" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#FFF2CC;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontColor=#000000;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-2" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=#000000;fillColor=#ffe6cc;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-2" vertex="1">
                     <mxGeometry x="29" y="-40" width="230" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="tPqSq747hNL7fE2Wet9U-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=15;" parent="1" source="VScDStyfCDfS6FZ-cKT7-3" target="VScDStyfCDfS6FZ-cKT7-11" edge="1">
@@ -70,7 +70,7 @@
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-5" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Исполнитель&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="1240" y="600" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-5">
+                <mxCell id="4" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" parent="VScDStyfCDfS6FZ-cKT7-5" vertex="1">
                     <mxGeometry x="490" y="20" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-6" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 70px;&quot;&gt;&amp;nbsp;Функция&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#7EA6E0;strokeWidth=2;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-5" vertex="1">
@@ -82,13 +82,13 @@
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-8" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 50px;&quot;&gt;2ч. 30 мин.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="1880" y="1600" width="230" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-9" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Домен или предметная область&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-9" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Домен или предметная область&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="1250" y="1060" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-9">
+                <mxCell id="7" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" parent="VScDStyfCDfS6FZ-cKT7-9" vertex="1">
                     <mxGeometry x="493.74977941064617" y="20" width="46.249980983676394" height="46.25" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-10" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#FFF2CC;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontColor=#000000;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-9" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-10" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=#000000;fillColor=#ffe6cc;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-9" vertex="1">
                     <mxGeometry x="20" y="-40" width="230" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="tPqSq747hNL7fE2Wet9U-3" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=15;" parent="1" source="VScDStyfCDfS6FZ-cKT7-11" target="VScDStyfCDfS6FZ-cKT7-19" edge="1">
@@ -103,7 +103,7 @@
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-13" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Исполнитель&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="2220" y="600" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-13">
+                <mxCell id="5" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" parent="VScDStyfCDfS6FZ-cKT7-13" vertex="1">
                     <mxGeometry x="490" y="20" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-14" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 70px;&quot;&gt;&amp;nbsp;Функция&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#7EA6E0;strokeWidth=2;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-13" vertex="1">
@@ -115,13 +115,13 @@
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-16" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 50px;&quot;&gt;10 мин.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="2870" y="1590" width="280" height="123" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-17" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Домен или предметная область&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-17" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Домен или предметная область&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="2230" y="1060" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-17">
+                <mxCell id="8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" parent="VScDStyfCDfS6FZ-cKT7-17" vertex="1">
                     <mxGeometry x="479.99977941064617" y="20" width="46.249980983676394" height="46.25" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-18" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#FFF2CC;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontColor=#000000;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-17" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-18" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=#000000;fillColor=#ffe6cc;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-17" vertex="1">
                     <mxGeometry x="21" y="-40" width="230" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
@@ -133,7 +133,7 @@
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-21" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Исполнитель&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="3260" y="600" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-21">
+                <mxCell id="6" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#4D4D4D;shape=mxgraph.archimate3.function;container=0;" parent="VScDStyfCDfS6FZ-cKT7-21" vertex="1">
                     <mxGeometry x="490" y="20" width="40" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-22" value="&lt;font style=&quot;color: rgb(255, 255, 255); font-size: 70px;&quot;&gt;&amp;nbsp;Функция&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#7EA6E0;strokeWidth=2;dashed=0;rounded=1;arcSize=20;fontColor=#ffffff;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-21" vertex="1">
@@ -142,13 +142,13 @@
                 <mxCell id="VScDStyfCDfS6FZ-cKT7-23" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 50px;&quot;&gt;2 ч.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
                     <mxGeometry x="3160" y="1740" width="720" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-25" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Домен или предметная область&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-25" value="&lt;span style=&quot;color: rgb(63, 63, 63); font-size: 40px;&quot;&gt;Домен или предметная область&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#000000;strokeWidth=2;container=1;collapsible=0;" parent="1" vertex="1">
                     <mxGeometry x="3270" y="1060" width="560" height="240" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" vertex="1" parent="VScDStyfCDfS6FZ-cKT7-25">
+                <mxCell id="9" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#4D4D4D;strokeWidth=3;" parent="VScDStyfCDfS6FZ-cKT7-25" vertex="1">
                     <mxGeometry x="476.87977941064617" y="20" width="46.249980983676394" height="46.25" as="geometry"/>
                 </mxCell>
-                <mxCell id="VScDStyfCDfS6FZ-cKT7-26" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=default;fillColor=#FFF2CC;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontColor=#000000;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-25" vertex="1">
+                <mxCell id="VScDStyfCDfS6FZ-cKT7-26" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Сервис&lt;/font&gt;" style="shape=rect;strokeColor=#000000;fillColor=#ffe6cc;strokeWidth=5;dashed=0;rounded=1;arcSize=10;fontSize=30;spacing=2;spacingTop=-2;align=left;autosize=1;spacingLeft=4;resizeWidth=0;resizeHeight=0;perimeter=none;html=1;whiteSpace=wrap;" parent="VScDStyfCDfS6FZ-cKT7-25" vertex="1">
                     <mxGeometry x="20" y="-40" width="230" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="pwWvZf50TWq08qslla2Q-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDF7D2;arcSize=7;strokeWidth=2;strokeColor=#4D4D4D;" parent="1" vertex="1">
