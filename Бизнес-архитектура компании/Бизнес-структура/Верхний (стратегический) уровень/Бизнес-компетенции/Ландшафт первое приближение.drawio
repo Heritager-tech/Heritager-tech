@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="KPkbjoFniX4YVMLm4hhz" name="Универсальные">
-        <mxGraphModel dx="6794" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="7084" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="0">
                     <mxCell/>
@@ -133,7 +133,7 @@
                     <mxGeometry x="222" y="4720" width="320" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="wU3xurUWq-uGDlGuvanH-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=17;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#8C8496;fontColor=#000000;verticalAlign=top;align=center;spacing=20;fontSize=14;spacingLeft=170;" parent="1" vertex="1">
-                    <mxGeometry x="-890" y="3970" width="400" height="200" as="geometry"/>
+                    <mxGeometry x="-870" y="3940" width="400" height="200" as="geometry"/>
                 </mxCell>
                 <mxCell id="wU3xurUWq-uGDlGuvanH-7" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=17;perimeter=none;whiteSpace=wrap;fillColor=#1061B0;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;part=0;backgroundOutline=0;noLabel=0;" parent="wU3xurUWq-uGDlGuvanH-6" vertex="1">
                     <mxGeometry width="140" height="200" relative="1" as="geometry"/>
@@ -184,7 +184,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Основные" id="LBq4sw7w2ZfflTA5G8ZU">
-        <mxGraphModel dx="2425" dy="-1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2740" dy="-1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="2u0SDXx59rk51LR-6qHb-0">
                     <mxCell/>
@@ -360,7 +360,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Управляющие" id="zlUslKcowD9_geuOn4l3">
-        <mxGraphModel dx="2425" dy="-1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2740" dy="-1559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <object label="" New="" id="wp2hwnPlKysDd1k0PrAt-0">
                     <mxCell/>
